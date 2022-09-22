@@ -1,0 +1,16 @@
+var name="Ⓓⓔⓥⓔⓢⓗ Ⓚⓤⓜⓐⓡ Ⓜⓘⓢⓗⓡⓐ";
+console.log("Name= "+name);
+var school= "MLKPG COLLEGE";
+console.log("School "+school);
+var grade= "A";
+console.log("grade "+grade);
+var section= "B";
+console.log("Section "+section);
+const rollno="23356421";
+console.log("Roll No "+rollno);
+let marks= 58;
+console.log("Math "+marks);
+ marks= 90;
+console.log("English "+marks);
+ marks= 78;
+console.log("Hindi "+marks);
